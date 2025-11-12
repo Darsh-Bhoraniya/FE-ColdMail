@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# builds
+dist
+build
+
+# tests/coverage
+coverage
+
+# editor
+.vscode
+.DS_Store
+.idea
+
+.cache
+.github
+.husky
