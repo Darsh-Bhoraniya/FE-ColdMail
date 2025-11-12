@@ -1,6 +1,5 @@
 import LoadingScreen from "@/components/loading-screen";
 import MainLayout from "@/layout";
-import LandingPageView from "@/pages/LandingPage/LandingPage";
 import Pricing from "@/section/PricingPage/Pricing";
 import { paths } from "@/utils/paths";
 import React, { Suspense } from "react";
